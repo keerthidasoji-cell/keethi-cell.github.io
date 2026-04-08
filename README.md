@@ -1,2 +1,11 @@
-# keethi-cell.github.io
-College Bus Tracking System is a real-time web application that helps students track bus locations using GPS. Users can select their bus and stop to receive alerts when the bus is nearby. It supports multiple routes and includes an admin panel using Streamlit for managing buses and routes.
+
+  # Untitled
+
+  This is a code bundle for Untitled. The original project is available at https://www.figma.com/design/4UmvOkBl7f9TecOFgYkISi/Untitled.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
